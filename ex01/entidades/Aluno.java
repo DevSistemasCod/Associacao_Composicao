@@ -1,7 +1,7 @@
 package entidades;
 
 public class Aluno {
-	private String nome;
+    private String nome;
     private int idade;
     private int matricula;
     
