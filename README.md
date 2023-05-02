@@ -1,4 +1,4 @@
-# Associação - Agregação
+# Associação - Composição
 
 1) Digamos que a classe Aluno representa um aluno de uma escola e tenha os seguintes atributos: nome, idade e matrícula e o método exibirDados(). Já a classe Turma representa uma turma da escola e possui os atributos: disciplina e professor e o método toString(). Para representar o relacionamento entre um aluno e uma turma, podemos utilizar a composição. Ou seja, a classe Turma terá um atributo que é um objeto da classe Aluno. Isso significa que a classe Turma é composta por um objeto da classe Aluno.
 
