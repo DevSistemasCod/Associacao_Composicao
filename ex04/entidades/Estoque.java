@@ -1,7 +1,7 @@
 package entidades;
 
 public class Estoque {
-	private Produto[] produtos;
+    private Produto[] produtos;
     private int numProdutos;
 
     public Estoque(Produto[] produtos) {
