@@ -1,7 +1,7 @@
 package entidades;
 
 public class Turma {
-	private String disciplina;
+    private String disciplina;
     private String professor;
     private Aluno aluno;
     
