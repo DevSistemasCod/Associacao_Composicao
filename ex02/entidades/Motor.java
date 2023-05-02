@@ -1,7 +1,7 @@
 package entidades;
 
 public class Motor {
-	private float quantidadeCombustivel;
+    private float quantidadeCombustivel;
     private int potencia;
     
     public Motor(float quantidadeCombustivel, int potencia) {
